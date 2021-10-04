@@ -4,6 +4,7 @@ import { faUser, faProjectDiagram, faUserGraduate, faChalkboardTeacher } from '@
 
 import { Card } from 'react-bootstrap';
 import './Service.css'
+import { Link } from 'react-router-dom';
 
 
 const Service = () => {
@@ -16,13 +17,13 @@ const Service = () => {
             </div>
             <Card.Body>
               <Card.Title className="pb-2 fs-2">Entrepreneurs</Card.Title>
-             
+
               <Card.Text>
                 Must explain mistake denouncie pleasure praisin was born
                 complete
               </Card.Text>
-              <Card.Link href="#">Card Link</Card.Link>
-              <Card.Link href="#">Another Link</Card.Link>
+
+              <Link to="/newsFeed">News Link</Link>
             </Card.Body>
           </Card>
         </div>
@@ -33,13 +34,12 @@ const Service = () => {
             </div>
             <Card.Body>
               <Card.Title className="pb-2 fs-2">Project Managers</Card.Title>
-              
+
               <Card.Text>
                 Must explain mistake denouncie pleasure praisin was born
                 complete
               </Card.Text>
-              <Card.Link href="#">Card Link</Card.Link>
-              <Card.Link href="#">Another Link</Card.Link>
+              <Link to="/newsFeed">News Link</Link>
             </Card.Body>
           </Card>
         </div>
@@ -50,13 +50,12 @@ const Service = () => {
             </div>
             <Card.Body>
               <Card.Title className="pb-2 fs-2">Students</Card.Title>
-             
+
               <Card.Text>
                 Must explain mistake denouncie pleasure praisin was born
                 complete
               </Card.Text>
-              <Card.Link href="#">Card Link</Card.Link>
-              <Card.Link href="#">Another Link</Card.Link>
+              <Link to="/newsFeed">News Link</Link>
             </Card.Body>
           </Card>
         </div>
@@ -66,16 +65,13 @@ const Service = () => {
               <FontAwesomeIcon icon={faChalkboardTeacher} />
             </div>
             <Card.Body>
-              <Card.Title className="pb-2 fs-2">
-                Learners
-              </Card.Title>
-             
+              <Card.Title className="pb-2 fs-2">Learners</Card.Title>
+
               <Card.Text>
                 Must explain mistake denouncie pleasure praisin was born
                 complete
               </Card.Text>
-              <Card.Link href="#">Card Link</Card.Link>
-              <Card.Link href="#">Another Link</Card.Link>
+              <Link to="/newsFeed">News Link</Link>
             </Card.Body>
           </Card>
         </div>
