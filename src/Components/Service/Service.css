@@ -1,0 +1,13 @@
+.Service-Section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+   grid-gap: 15px;
+    /* color: white; */
+   
+
+}
+.icon{
+    padding: 10px 0;
+    font-size: 50px;
+    color: #f14d5d;
+}

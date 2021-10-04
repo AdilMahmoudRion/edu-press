@@ -1,0 +1,122 @@
+[
+  {
+    "author": "William Shakespeare",
+    "nationality": "English",
+    "language": "English",
+    "numberOfBooks": 42,
+    "salary": 50000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/330px-Shakespeare.jpg"
+  },
+  {
+    "author": "Agatha Christie",
+    "nationality": "English",
+    "language": "English",
+    "numberOfBooks": 85,
+    "salary": 43200,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Agatha_Christie.png"
+  },
+  {
+    "author": "Barbara Cartlan",
+    "nationality": "English",
+    "language": "English",
+    "numberOfBooks": 723,
+    "salary": 23400,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dame_Barbara_Cartland_Allan_Warren.jpg"
+  },
+  {
+    "author": "Danielle Steel",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 179,
+    "salary": 34500,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Harold_Robbins_%281979%29.jpg"
+  },
+  {
+    "author": "Harold Robbins",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 23,
+    "salary": 50546,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/46/Harold_Robbins_%281979%29.jpg"
+  },
+  {
+    "author": "Georges Simenon",
+    "nationality": "Belgian",
+    "language": "French",
+    "numberOfBooks": 570,
+    "salary": 34220,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Georges_Simenon_%281963%29_without_hat_by_Erling_Mandelmann.jpg"
+  },
+  {
+    "author": "Enid Blyton",
+    "nationality": "English",
+    "language": "English",
+    "numberOfBooks": 800,
+    "salary": 650340,
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a3/Enid_Blyton_2.jpg"
+  },
+  {
+    "author": "Sidney jh",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 21,
+    "salary": 89000,
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f6/Sidney_Sheldon.jpg"
+  },
+  {
+    "author": "J. K. Rowling",
+    "nationality": "British",
+    "language": "English",
+    "numberOfBooks": 15,
+    "salary": 95000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5d/J._K._Rowling_2010.jpg"
+  },
+  {
+    "author": "Gilbert Patten",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 209,
+    "salary": 89000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/80/Broken_oar_cast_aside_Tip_Top_Weekly_1900.jpg"
+  },
+  {
+    "author": "Sidney",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 21,
+    "salary": 89000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg"
+  },
+  {
+    "author": "Dr. Seuss",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 44,
+    "salary": 89000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Theodor_Seuss_Geisel_%2801037v%29.jpg"
+  },
+  {
+    "author": "Leo Tolstoy",
+    "nationality": "Russian",
+    "language": "Russian",
+    "numberOfBooks": 48,
+    "salary": 8000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c6/L.N.Tolstoy_Prokudin-Gorsky.jpg"
+  },
+  {
+    "author": "Horatio Alger",
+    "nationality": "American",
+    "language": "English",
+    "numberOfBooks": 135,
+    "salary": 89670,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/51/Horatio_Alger_Jr.jpg"
+  },
+  {
+    "author": "Akira Toriyama",
+    "nationality": "Japanese",
+    "language": "Japanese",
+    "numberOfBooks": 66,
+    "salary": 8000,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Akira_Toriyama.jpg"
+  }
+]
