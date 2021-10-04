@@ -1,0 +1,17 @@
+.about-section{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    display: flex;
+    align-items: center;
+}
+.about-details{
+    padding: 20px 250px;
+    text-align: center;
+}
+.slider{
+    width: 75%;
+   
+
+}

@@ -1,5 +1,5 @@
 .popular-courses{
-    margin-top: 40px;
+    margin: 50px 0;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
