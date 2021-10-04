@@ -1,3 +1,4 @@
+// course section
 import React from "react";
 import "./Course.css";
 import img1 from "./CourseImg/course_03-370x200_c.jpg";
@@ -10,11 +11,14 @@ import img6 from "./CourseImg/course_08-370x200_c.jpg";
 const Course = () => {
   return (
     <div className="container pt-5">
+
+      {/* heading */}
       <p className="text-center fs-4">
         The EduPress template compatible with all mobile devices and modern
         browsers. <br />
         This template coded with Bootstrap Framework
       </p>
+      {/* Popular courses */}
       <div className="popular-courses">
         <div className="course">
           <div>

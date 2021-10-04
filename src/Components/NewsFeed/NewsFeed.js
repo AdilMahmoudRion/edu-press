@@ -4,6 +4,7 @@ import NewsCard from "../NewsCard/NewsCard";
 import "./NewsFeed.css";
 
 const NewsFeed = () => {
+  // declare useState
   const [news, setNews] = useState([]);
   useEffect(() => {
     fetch("https://jsonplaceholder.typicode.com/posts")
@@ -12,6 +13,7 @@ const NewsFeed = () => {
   }, []);
   return (
     <div className="news-section container pt-4">
+      {/* Mapping updating news */}
       {news.map((News) => (
         <NewsCard news={News}></NewsCard>
       ))}

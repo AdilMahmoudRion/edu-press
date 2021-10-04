@@ -7,6 +7,7 @@ import Home from "./Components/Home/Home";
 import NewsFeed from "./Components/NewsFeed/NewsFeed";
 import Course from "./Components/Course/Course";
 import AboutUs from "./Components/AboutUs/AboutUs";
+import PageNotFound from "./Components/PageNotFound/PageNotFound";
 
 function App() {
   return (
@@ -25,6 +26,9 @@ function App() {
           </Route>
           <Route path="/aboutUs">
             <AboutUs></AboutUs>
+          </Route>
+          <Route path="*">
+            <PageNotFound></PageNotFound>
           </Route>
         </Switch>
         <Footer></Footer>

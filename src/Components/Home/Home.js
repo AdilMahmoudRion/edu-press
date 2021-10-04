@@ -27,11 +27,13 @@ const Home = () => {
         </Row>
       </div>
       <div className="Service-section">
+        {/* call service section */}
         <Service></Service>
       </div>
       <div>
+        {/* Call popular course section */}
         <Course></Course>
-        </div>
+      </div>
     </div>
   );
 };

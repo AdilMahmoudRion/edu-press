@@ -1,3 +1,6 @@
+// About us section
+
+
 import React from "react";
 import { Carousel } from "react-bootstrap";
 import "./AboutUs.css";
@@ -29,6 +32,8 @@ const AboutUs = () => {
           connect people through knowledge.
         </p>
       </div>
+
+      {/* instructor slider */}
 
       <div className="slider mx-auto mt-5 mb-5">
         <Carousel>
