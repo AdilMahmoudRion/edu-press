@@ -6,7 +6,7 @@ import "./NewsFeed.css";
 const NewsFeed = () => {
   const [news, setNews] = useState([]);
   useEffect(() => {
-    fetch("./FakeData.JSON")
+    fetch("https://jsonplaceholder.typicode.com/posts")
       .then((res) => res.json())
       .then((data) => setNews(data));
   }, []);
