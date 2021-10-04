@@ -10,7 +10,7 @@ import Course from "./Components/Course/Course";
 
 function App() {
   return (
-    <div className="">
+    <div >
       <BrowserRouter>
         <Header></Header>
         <Switch>
