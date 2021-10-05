@@ -6,8 +6,9 @@ import "./NewsFeed.css";
 const NewsFeed = () => {
   // declare useState
   const [news, setNews] = useState([]);
+  console.log(news);
   useEffect(() => {
-    fetch("https://jsonplaceholder.typicode.com/posts")
+    fetch("./FakeData.JSON")
       .then((res) => res.json())
       .then((data) => setNews(data));
   }, []);

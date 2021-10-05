@@ -2,12 +2,9 @@
 
 import React from "react";
 import { Card, Button } from "react-bootstrap";
-// import { Carousel } from "react-bootstrap";
 import "./AboutUs.css";
 import img from "./img//istockphoto-1317784594-170667a.jpg";
-// import img1 from "./img/img3.jpg";
-// import img2 from "./img/img4.jpg";
-// import img3 from "./img/istockphoto-1317784594-170667a.jpg";
+
 
 const AboutUs = () => {
   return (
@@ -40,7 +37,7 @@ const AboutUs = () => {
             <h1 className="fs-1 pt-3">We just keep growing</h1>
             <p className="fs-5 pt-3">
               Our global community and our course catalog get bigger every day.
-               Check out our
+              Check out our
               <br /> latest numbers as of June 2021.
             </p>
           </div>
