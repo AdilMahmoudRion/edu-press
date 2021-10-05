@@ -6,6 +6,9 @@
   display: flex;
   align-items: center;
 }
+.title span {
+  color: #e74c3c;
+}
 
 .about-details {
   padding: 20px 250px;

@@ -16,7 +16,7 @@ const AboutUs = () => {
         <div className="p-4 title">
           <h1>
             We share knowledge with
-            <br /> the world
+            <br /> <span>the world</span>
           </h1>
         </div>
         <div className="p-4">

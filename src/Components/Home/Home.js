@@ -8,12 +8,14 @@ import AboutUs from "../AboutUs/AboutUs";
 const Home = () => {
   return (
     <div className="container container-div">
-      <div>
+      <div className="Header-section">
         <Row>
           <Col className="header-information">
             <small>*eduPress includes iBooks, PDF & ePub versions</small>
             <h1 className="header">
-              Welcome To The EduPress<br/>  Learning Management System
+              Welcome To <br />
+              <span>The EduPress</span>
+              <br /> Learning Management System
             </h1>
             <p>
               Get access to 200 high converting headline formulas. Copy the
@@ -30,7 +32,7 @@ const Home = () => {
         {/* call service section */}
         <Service></Service>
       </div>
-      <div>
+      <div className="Header-section">
         {/* Call popular course section */}
         <Course></Course>
       </div>

@@ -12,10 +12,25 @@
     margin: 20px 0;
     
 }
+.Header-section{
+    padding: 10px;
+     background: rgb(248, 248, 250);
+      border-radius: 5px;
+        box-shadow:
+		0 2px 4px rgba(0,0,0,0.07), 
+		0 2px 4px rgba(0,0,0,0.07), 
+		0 2px 4px rgba(0,0,0,0.07), 
+		0 2px 4px rgba(0,0,0,0.07),
+		0 2px 4px rgba(0,0,0,0.07), 
+		0 2px 4px rgba(0,0,0,0.07);
+}
 .header{
-color: #e74c3c;
 font-size: 50px;
 
+}
+.header span{
+color: #e74c3c;
+font-weight: bold;
 }
 .header-information Button{
 margin-top: 30px;
