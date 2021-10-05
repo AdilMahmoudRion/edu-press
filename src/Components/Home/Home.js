@@ -3,6 +3,7 @@ import { Col, Image, Row } from "react-bootstrap";
 import img from "../img/ebook.jpg";
 import Service from "../Service/Service";
 import Course from "../Course/Course";
+import AboutUs from "../AboutUs/AboutUs";
 
 const Home = () => {
   return (
@@ -32,6 +33,9 @@ const Home = () => {
       <div>
         {/* Call popular course section */}
         <Course></Course>
+      </div>
+      <div>
+        <AboutUs></AboutUs>
       </div>
     </div>
   );
