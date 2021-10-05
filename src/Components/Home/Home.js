@@ -8,7 +8,7 @@ import AboutUs from "../AboutUs/AboutUs";
 const Home = () => {
   return (
     <div className="container container-div">
-      <div className="Header-section">
+      <div className="">
         <Row>
           <Col className="header-information">
             <small>*eduPress includes iBooks, PDF & ePub versions</small>
@@ -32,7 +32,7 @@ const Home = () => {
         {/* call service section */}
         <Service></Service>
       </div>
-      <div className="Header-section">
+      <div>
         {/* Call popular course section */}
         <Course></Course>
       </div>

@@ -12,18 +12,7 @@
     margin: 20px 0;
     
 }
-.Header-section{
-    padding: 10px;
-     background: rgb(248, 248, 250);
-      border-radius: 5px;
-        box-shadow:
-		0 2px 4px rgba(0,0,0,0.07), 
-		0 2px 4px rgba(0,0,0,0.07), 
-		0 2px 4px rgba(0,0,0,0.07), 
-		0 2px 4px rgba(0,0,0,0.07),
-		0 2px 4px rgba(0,0,0,0.07), 
-		0 2px 4px rgba(0,0,0,0.07);
-}
+
 .header{
 font-size: 50px;
 
