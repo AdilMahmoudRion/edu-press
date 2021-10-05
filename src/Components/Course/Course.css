@@ -23,13 +23,15 @@
 		0 2px 4px rgba(0,0,0,0.07);
 }
 .course-title{
+    padding: 0 5px;
     margin-top: 5px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    justify-items: end;
+    display: flex;
+    justify-content: space-between;
+    /* grid-template-columns: 1fr 1fr; */
+    /* justify-items: end; */
     
 }
 .price{
-    padding-right: 10px;
-    color: red;
+    font-weight: bold;
+    color: #e74c3c;
 }

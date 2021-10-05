@@ -24,7 +24,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img1} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>Learning Email Marketing</p>
             <p className="price">FREE</p>
           </div>
@@ -33,7 +33,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img2} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>Put Your Site Online</p>
             <p className="price">$30.00</p>
           </div>
@@ -42,7 +42,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img3} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>Develop IOS & Android</p>
             <p className="price">$89.00</p>
           </div>
@@ -51,7 +51,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img4} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>Onepage Design (Landing)</p>
             <p className="price">FREE</p>
           </div>
@@ -60,7 +60,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img5} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>Web Design</p>
             <p className="price">$15.00</p>
           </div>
@@ -69,7 +69,7 @@ const Course = () => {
           <div>
             <img className="course-img" src={img6} alt="" />
           </div>
-          <div className="course-title justify-content-center">
+          <div className="course-title ">
             <p>SEO Strategy</p>
             <p className="price">$10.00</p>
           </div>
