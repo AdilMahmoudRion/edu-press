@@ -1,17 +1,47 @@
-.about-section{
-    display: flex;
-    justify-content: center;
+.about-section {
+  display: flex;
+  justify-content: center;
 }
-.title{
-    display: flex;
-    align-items: center;
+.title {
+  display: flex;
+  align-items: center;
 }
-.about-details{
-    padding: 20px 250px;
-    text-align: center;
-}
-.slider{
-    width: 75%;
-   
 
+.about-details {
+  padding: 20px 250px;
+  text-align: center;
+}
+
+.grooming-section {
+  color: white;
+  width: 100%;
+  background-color: #5624d0;
+}
+.details {
+  padding: 20px 0;
+  font-weight: 900;
+}
+.cart {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5px;
+  justify-items: center;
+  margin-bottom: 25px;
+}
+.text-container {
+  text-align: center;
+  padding: 0 350px;
+  margin: 30px 0;
+}
+.cart-information {
+  color: white;
+  background-color: #a435f0;
+}
+.cart-information2 {
+  color: white;
+  background-color: #dddb36;
+}
+.cart-information3 {
+  color: white;
+  background-color: #2d907f;
 }
